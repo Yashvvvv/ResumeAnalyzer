@@ -6,7 +6,7 @@ This project showcases skills in full-stack development, prompt engineering, and
 
 ## Screenshot
 
-![App Screenshot](https://i.imgur.com/your-screenshot.png) 
+![App Screenshot]![Image](https://github.com/user-attachments/assets/9ae7c4d1-d27c-49b7-996d-043f052715d2) 
 *(You should replace this with a real screenshot of your running application)*
 
 ---
