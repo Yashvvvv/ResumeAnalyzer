@@ -6,7 +6,8 @@ This project showcases skills in full-stack development, prompt engineering, and
 
 ## Screenshot
 
-[Image](https://github.com/user-attachments/assets/9ae7c4d1-d27c-49b7-996d-043f052715d2) 
+![App Screenshot]![Image](https://github.com/user-attachments/assets/9ae7c4d1-d27c-49b7-996d-043f052715d2) 
+
 ---
 
 ## Features
